@@ -1,6 +1,6 @@
 # Cosuno Challenge
 
-This project is the second challege of Cosuno GmbH and used express mocha chain
+This project is the challege of Cosuno GmbH
 
 ## Instruction
 
