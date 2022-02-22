@@ -1,0 +1,86 @@
+{
+  "swagger": "2.0",
+  "info": {
+      "title": "",
+      "description": "",
+      "version": "1.0"
+  },
+  "produces": [
+      "application/json"
+  ],
+  "host": "localhost:8080",
+  "basePath": "/",
+  "paths": {
+      "/api/v1/company": {
+          "get": {
+              "x-swagger-router-controller": "middleware-name1",
+              "operationId": "swagTest",
+              "tags": [
+                  "all companies"
+              ],
+              "description": "get all companies",
+              "responses": {
+                  "200": {
+                      "description": "it will return companies data",
+                      "schema": {
+                          "type": "object",
+                          "properties": {
+                              "msg": {
+                                  "type": "string",
+                                  "description": "ok message",
+                                  "example": "ok"
+                              },
+                              "data": {
+                                  "type": "array",
+                                  "description": "array of objects of companies data",
+                                  "items": {
+                                      "$ref": "#/definitions/Company"
+                                  }
+                              }
+                          }
+                      }
+                  },
+                  "404": {
+                      "description": "if you call unknown route"
+                  }
+              }
+          }
+      }
+  },
+  "definitions": {
+      "Company": {
+          "properties": {
+              "_id": {
+                  "type": "string",
+                  "example": "620d4c67903bed77721b9a11"
+              },
+              "logo": {
+                  "type": "string",
+                  "example": "http://placehold.it/32x32"
+              },
+              "company": {
+                  "type": "string",
+                  "example": "CONJURICA"
+              },
+              "phone": {
+                  "type": "string",
+                  "example": "+1 (914) 476-2387"
+              },
+              "city": {
+                  "type": "string",
+                  "example": "Gilgo"
+              },
+              "specialties": {
+                  "type": "array",
+                  "items": {
+                    "type":"string",
+                    "example": "excavation"
+                  }
+              }
+          },
+          "xml": {
+              "name": "Tag"
+          }
+      }
+  }
+}

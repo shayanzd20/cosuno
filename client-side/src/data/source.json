@@ -1,0 +1,343 @@
+[
+    {
+      "_id": "620d4c67903bed77721b9a11",
+      "logo": "http://placehold.it/32x32",
+      "company": "CONJURICA",
+      "email": "bergerhardy@conjurica.com",
+      "phone": "+1 (914) 476-2387",
+      "city": "Gilgo",
+      "specialties": [
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c674394763a45ceb21e",
+      "logo": "http://placehold.it/32x32",
+      "company": "APPLIDEC",
+      "email": "bergerhardy@applidec.com",
+      "phone": "+1 (822) 596-2490",
+      "city": "Lynn",
+      "specialties": [
+        "excavation",
+        "electrical"
+      ]
+    },
+    {
+      "_id": "620d4c67d85dec2aa7a1990f",
+      "logo": "http://placehold.it/32x32",
+      "company": "ANDRYX",
+      "email": "bergerhardy@andryx.com",
+      "phone": "+1 (906) 558-2744",
+      "city": "Keyport",
+      "specialties": [
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c6784a5d37cae3c31b5",
+      "logo": "http://placehold.it/32x32",
+      "company": "GOLISTIC",
+      "email": "bergerhardy@golistic.com",
+      "phone": "+1 (927) 454-3974",
+      "city": "Ticonderoga",
+      "specialties": [
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c674f4e27fae8202baa",
+      "logo": "http://placehold.it/32x32",
+      "company": "SUREMAX",
+      "email": "bergerhardy@suremax.com",
+      "phone": "+1 (958) 438-2595",
+      "city": "Haena",
+      "specialties": [
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c67b7f87b3cc9b06a41",
+      "logo": "http://placehold.it/32x32",
+      "company": "CYCLONICA",
+      "email": "bergerhardy@cyclonica.com",
+      "phone": "+1 (899) 592-2916",
+      "city": "Mammoth",
+      "specialties": [
+        "plumbing",
+        "excavation",
+        "electrical"
+      ]
+    },
+    {
+      "_id": "620d4c6791ff73308e694ab0",
+      "logo": "http://placehold.it/32x32",
+      "company": "FUTURIZE",
+      "email": "bergerhardy@futurize.com",
+      "phone": "+1 (907) 538-2339",
+      "city": "Lowell",
+      "specialties": [
+        "plumbing",
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c677b142e8686ee39f8",
+      "logo": "http://placehold.it/32x32",
+      "company": "DIGINETIC",
+      "email": "bergerhardy@diginetic.com",
+      "phone": "+1 (850) 420-2658",
+      "city": "Stagecoach",
+      "specialties": [
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c67edd7a1e8ae70b974",
+      "logo": "http://placehold.it/32x32",
+      "company": "VITRICOMP",
+      "email": "bergerhardy@vitricomp.com",
+      "phone": "+1 (990) 436-3319",
+      "city": "Torboy",
+      "specialties": [
+        "excavation",
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c67ff08d45e60c169c4",
+      "logo": "http://placehold.it/32x32",
+      "company": "MEDESIGN",
+      "email": "bergerhardy@medesign.com",
+      "phone": "+1 (817) 560-3206",
+      "city": "Urbana",
+      "specialties": [
+        "plumbing",
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c67a73553c0150a21b6",
+      "logo": "http://placehold.it/32x32",
+      "company": "ACCUPHARM",
+      "email": "bergerhardy@accupharm.com",
+      "phone": "+1 (936) 464-2780",
+      "city": "Guthrie",
+      "specialties": [
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c677d4d71dbe6f48f76",
+      "logo": "http://placehold.it/32x32",
+      "company": "COREPAN",
+      "email": "bergerhardy@corepan.com",
+      "phone": "+1 (982) 598-2169",
+      "city": "Vivian",
+      "specialties": [
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c67b68f99f2dfdd6abf",
+      "logo": "http://placehold.it/32x32",
+      "company": "MARKETOID",
+      "email": "bergerhardy@marketoid.com",
+      "phone": "+1 (925) 476-3702",
+      "city": "Hampstead",
+      "specialties": [
+        "excavation",
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c67a6f7f0717c387752",
+      "logo": "http://placehold.it/32x32",
+      "company": "NEWCUBE",
+      "email": "bergerhardy@newcube.com",
+      "phone": "+1 (975) 500-3197",
+      "city": "Sunriver",
+      "specialties": [
+        "plumbing"      ]
+    },
+    {
+      "_id": "620d4c6710e713fcb7be2001",
+      "logo": "http://placehold.it/32x32",
+      "company": "AQUASURE",
+      "email": "bergerhardy@aquasure.com",
+      "phone": "+1 (956) 435-2070",
+      "city": "Herlong",
+      "specialties": [
+        "plumbing",
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c6781dbfcf7eaf360bb",
+      "logo": "http://placehold.it/32x32",
+      "company": "HALAP",
+      "email": "bergerhardy@halap.com",
+      "phone": "+1 (921) 539-3197",
+      "city": "Cotopaxi",
+      "specialties": [
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c67a68f9b3b523b7b63",
+      "logo": "http://placehold.it/32x32",
+      "company": "ZILLAR",
+      "email": "bergerhardy@zillar.com",
+      "phone": "+1 (990) 422-3727",
+      "city": "Soudan",
+      "specialties": [
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c678fad9c3b4fd0f3c5",
+      "logo": "http://placehold.it/32x32",
+      "company": "SENTIA",
+      "email": "bergerhardy@sentia.com",
+      "phone": "+1 (832) 597-3511",
+      "city": "Lemoyne",
+      "specialties": [
+        "plumbing",
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c67f3f0a01bf1941619",
+      "logo": "http://placehold.it/32x32",
+      "company": "VIASIA",
+      "email": "bergerhardy@viasia.com",
+      "phone": "+1 (962) 482-2225",
+      "city": "Grayhawk",
+      "specialties": [
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c674ddedcb87d2d04bc",
+      "logo": "http://placehold.it/32x32",
+      "company": "NIXELT",
+      "email": "bergerhardy@nixelt.com",
+      "phone": "+1 (884) 567-2377",
+      "city": "Ferney",
+      "specialties": [
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c670d19ea38d3083b67",
+      "logo": "http://placehold.it/32x32",
+      "company": "IRACK",
+      "email": "bergerhardy@irack.com",
+      "phone": "+1 (865) 556-2759",
+      "city": "Somerset",
+      "specialties": [
+        "excavation",
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c677c8164f71af9c50b",
+      "logo": "http://placehold.it/32x32",
+      "company": "ZIALACTIC",
+      "email": "bergerhardy@zialactic.com",
+      "phone": "+1 (954) 456-3998",
+      "city": "Glenville",
+      "specialties": [
+        "plumbing",
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c679b541747fb46e856",
+      "logo": "http://placehold.it/32x32",
+      "company": "MICROLUXE",
+      "email": "bergerhardy@microluxe.com",
+      "phone": "+1 (899) 425-3096",
+      "city": "Waterloo",
+      "specialties": [
+        "excavation",
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c67f3eeb1e4f8a61ecb",
+      "logo": "http://placehold.it/32x32",
+      "company": "EZENT",
+      "email": "bergerhardy@ezent.com",
+      "phone": "+1 (898) 546-3115",
+      "city": "Dola",
+      "specialties": [
+        "plumbing",
+        "excavation"
+      ]
+    },
+    {
+      "_id": "620d4c677064c8704bff09f8",
+      "logo": "http://placehold.it/32x32",
+      "company": "SURETECH",
+      "email": "bergerhardy@suretech.com",
+      "phone": "+1 (850) 557-2509",
+      "city": "Fairfield",
+      "specialties": [
+        "excavation"      ]
+    },
+    {
+      "_id": "620d4c673f81039d90bb1ace",
+      "logo": "http://placehold.it/32x32",
+      "company": "ENERVATE",
+      "email": "bergerhardy@enervate.com",
+      "phone": "+1 (999) 435-3620",
+      "city": "Gibsonia",
+      "specialties": [
+        "excavation"      ]
+    },
+    {
+      "_id": "620d4c67fd136778b2a23c97",
+      "logo": "http://placehold.it/32x32",
+      "company": "PROSELY",
+      "email": "bergerhardy@prosely.com",
+      "phone": "+1 (990) 513-2275",
+      "city": "Farmington",
+      "specialties": [
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c675b99dd6f997b9f9f",
+      "logo": "http://placehold.it/32x32",
+      "company": "NEOCENT",
+      "email": "bergerhardy@neocent.com",
+      "phone": "+1 (901) 410-3740",
+      "city": "Holcombe",
+      "specialties": [
+        "excavation",
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c6701fea75cc39b67f7",
+      "logo": "http://placehold.it/32x32",
+      "company": "QUOTEZART",
+      "email": "bergerhardy@quotezart.com",
+      "phone": "+1 (961) 589-3008",
+      "city": "Ogema",
+      "specialties": [
+        "excavation",
+        "plumbing"
+      ]
+    },
+    {
+      "_id": "620d4c6794f57d8ba00bb4e5",
+      "logo": "http://placehold.it/32x32",
+      "company": "VORTEXACO",
+      "email": "bergerhardy@vortexaco.com",
+      "phone": "+1 (921) 507-3807",
+      "city": "Saddlebrooke",
+      "specialties": [
+        "excavation"      ]
+    }
+  ]
