@@ -1,0 +1,67 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "plugin:node/recommended",
+        "prettier"
+    ],
+    "settings": {
+        "createClass": "createReactClass",
+        "pragma": "React",
+        "react": {
+            "version": "detect"
+        },
+        "flowVersion": "0.53",
+        "import/resolver": {
+            "node": {
+                "moduleDirectory": ["node_modules", "src"]
+            }
+        }
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "prettier"
+    ],
+    "rules": {
+        "no-unused-vars": 2,
+        "node/no-unsupported-features/es-syntax": 0,
+        "node/no-unpublished-import": ["off"],
+        "no-console": 2,
+        "import/first": 0,
+        "react/prop-types": 1,
+        "arrow-body-style": 0,
+        "prefer-arrow-callback": 1,
+        "prettier/prettier": [
+            "error",
+            {
+                "singleQuote": true,
+                "trailingComma": "es5",
+                "bracketSpacing": true,
+                "jsxBracketSameLine": true,
+                "printWidth": 150,
+                "Semicolons":true,
+                "useTabs": false,
+                "bracketSameLine":true,
+                "arrowParens":"always",
+                "requirePragma": true,
+                "insertPragma": true,
+                "proseWrap":"always",
+                "tabWidth": 4,
+                "endOfLine": "auto"
+
+
+            }
+        ]
+    }
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types'
 
 import './CompaniesList.css';
 import Company from './Company';
@@ -10,5 +11,9 @@ const CompaniesList = ({ corps }) => (
 		))}
 	</section>
 );
+
+CompaniesList.propTypes = {
+	corps: PropTypes.array.isRequired
+  }
 
 export default CompaniesList;
